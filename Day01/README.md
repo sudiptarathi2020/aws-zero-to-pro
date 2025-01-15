@@ -16,3 +16,15 @@
 - [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure)
 - [AWS Pricing](https://aws.amazon.com/pricing)
 - [IAAS, PAAS and SAAS](https://aws.amazon.com/types-of-cloud-computing)
+
+
+# Solution
+AWS is cloud computing and web services platform that provides on demand cloud computing and APIs to individuals, companies, and governments on a metered pay as you go basis. AWS's virtual computers emulate most of the attributes of a real computer.  AWS has worlwide support for their services. These are called AWS Global Infrastructure.
+
+#### AWS Global Infrastructure
+AWS Global Infrastructure consists of Regions, Availability Zones, and Edge Locations.
+-**Regions**: AWS Regions are separate geographic areas. AWS regions consist of multiple, physically separated and isolated Avalability zones. AWS has 36 Regions.
+-**Avalability Zones**: Availability Zones consists of one or more discrete data centers, each with redundant power, networking, and connectivity, and housed in separate facilities. There are 114 Availability Zones within 36 geographic Regions around the workd.
+-**Edge Locations**: Edge Locations are strategically positioned points in the AWS network optimized for low-latency content delivery.
+
+
